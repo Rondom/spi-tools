@@ -15,6 +15,7 @@ stamp-h1
 .deps
 Makefile
 config.h.in*
+src/config.h
 config.log
 config.status
 .version
