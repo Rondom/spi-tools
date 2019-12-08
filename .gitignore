@@ -17,7 +17,7 @@ Makefile
 config.h.in*
 config.log
 config.status
-
+.version
 
 
 # Object files
